@@ -1,0 +1,20 @@
+/* tab项 */
+#article-container .tabs > .tab-contents .tab-item-content {
+    padding:0
+}
+/* 字体 */
+.size-16{
+    font-size:16px;
+}
+.size-24{
+    font-size:24px;
+}
+.size-32{
+    font-size:32px;
+}
+.size-48{
+    font-size:48px;
+}
+.size-64{
+    font-size:64px;
+}

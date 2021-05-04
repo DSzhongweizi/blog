@@ -1,0 +1,17 @@
+class:
+    class_name: 朋友
+    link_list:
+        1:
+            name: 苏御
+            link: https://cuixuesen.icu/
+            avatar: https://www.cuixuesen.icu/images/ayer-side.svg
+            descr: 流苏飘动，凤虚御风
+            
+class2:
+    class_name: 偶像
+    link_list:
+        1:
+            name: 郑爽
+            link: https://www.weibo.com/u/5461016454?is_hot=1
+            avatar: https://tvax3.sinaimg.cn/crop.0.0.1080.1080.180/005XzRQyly8gdi6jxbpiaj30u00u0q5y.jpg?KID=imgbed,tva&Expires=1588288655&ssig=RogPz%2FdthI
+            descr: 大壳子，老大...
